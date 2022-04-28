@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".AboutAirline">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="180sp"
+        android:src="@drawable/airplanesingle"
+        android:layout_margin="10sp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="400sp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/aboutText" />
+
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonstyle"
+            android:layout_margin="10sp"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/white"
+            android:text="Back"/>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Amonic</string>
+    <string name="loginInstruction">Hi, Please Provide us Your Email for First Use!</string>
+    <string name="emailLoginHint">Enter your Email</string>
+    <string name="loginButton">Login</string>
+    <string name="searchFlight">Search Flight</string>
+    <string name="reserveSeat">Reserve Seat</string>
+    <string name="amenities">Amenities</string>
+    <string name="about">About our Airline</string>
+
+
+    <string name="aboutText">AMONIC Airlines is a new airline based in Abu Dhabi, UAE and is trying to bring a flying option to those with fun and active lifestyles, with brand new planes, attractive fares, top-notch service, and a host of fun, innovative amenities. We plan to reinvent regional air travel in our image.
+The AMONIC Airlines mission statement is to connect people to what is important in their lives through friendly, reliable, and low-cost air travel. While keeping our status as the region’s youngest and most vibrant, AMONIC Airlines makes flying more fun.
+    AMONIC Airlines is a new airline based in Abu Dhabi, UAE and is trying to bring a flying option to those with fun and active lifestyles, with brand new planes, attractive fares, top-notch service, and a host of fun, innovative amenities. We plan to reinvent regional air travel in our image.
+The AMONIC Airlines mission statement is to connect people to what is important in their lives through friendly, reliable, and low-cost air travel. While keeping our status as the region’s youngest and most vibrant, AMONIC Airlines makes flying more fun.
+    AMONIC Airlines is a new airline based in Abu Dhabi, UAE and is trying to bring a flying option to those with fun and active lifestyles, with brand new planes, attractive fares, top-notch service, and a host of fun, innovative amenities. We plan to reinvent regional air travel in our image.
+The AMONIC Airlines mission statement is to connect people to what is important in their lives through friendly, reliable, and low-cost air travel. While keeping our status as the region’s youngest and most vibrant, AMONIC Airlines makes flying more fun.
+    AMONIC Airlines is a new airline based in Abu Dhabi, UAE and is trying to bring a flying option to those with fun and active lifestyles, with brand new planes, attractive fares, top-notch service, and a host of fun, innovative amenities. We plan to reinvent regional air travel in our image.
+The AMONIC Airlines mission statement is to connect people to what is important in their lives through friendly, reliable, and low-cost air travel. While keeping our status as the region’s youngest and most vibrant, AMONIC Airlines makes flying more fun. </string>
+    <string name="search_flight_btnText">Search Flight</string>
+    <string name="date">Select Date</string>
+</resources>
